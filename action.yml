@@ -1,5 +1,7 @@
 name: probe-override-node
-description: prints which version ran
+description: prints which version ran in pre/main/post
 runs:
   using: node20
+  pre: pre.js
   main: main.js
+  post: post.js
