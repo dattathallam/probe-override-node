@@ -1,1 +1,1 @@
-console.log("[node-action v1] PRE running from " + __dirname);
+console.log("[node-action v2] PRE running from " + __dirname);

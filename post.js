@@ -1,1 +1,1 @@
-console.log("[node-action v1] POST running from " + __dirname);
+console.log("[node-action v2] POST running from " + __dirname);
