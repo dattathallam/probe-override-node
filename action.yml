@@ -1,0 +1,5 @@
+name: probe-override-node
+description: prints which version ran
+runs:
+  using: node20
+  main: main.js
